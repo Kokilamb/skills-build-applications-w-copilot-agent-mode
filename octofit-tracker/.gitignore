@@ -1,0 +1,8 @@
+# Ignore backend virtual environment
+backend/venv/
+
+# Local env files
+.env
+
+# Editor files
+.vscode/
